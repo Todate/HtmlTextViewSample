@@ -1,0 +1,71 @@
+<h1>h1</h1>
+<h2>h2</h2>
+<h3>h3</h3>
+<h4>h4</h4>
+<h5>h5</h5>
+<h6>h6</h6>
+
+<hr/>
+<p>↑ 水平線は出せませんでした ↑</p>
+
+<p>
+太字は<b>可能</b>です<br/>
+strongによる強調は<strong>可能</strong>です<br/>
+下線は<u>可能</u>です<br/>
+打ち消し線は<del>可能</del>です
+</p>
+
+<p>
+イタリックは<i>不可能</i>です<br/>
+emによる強調は<em>不可能</em>です
+</p>
+
+<p>
+fontタグで<font color="red">赤く</font>してみました<br/>
+fontタグで<font color="#0000FF">青く</font>してみました<br/>
+fontタグで<font size="1">小さく</font>してみました<br/>
+fontタグで<font size="7">大きく</font>してみました
+</p>
+
+<p>
+<a href="https://www.google.com">Googleへのリンク</a>（safariで開きます）
+</p>
+
+<p>
+<a href="tel:0312345678">電話をかける</a>（確認のダイアログが出ます）
+</p>
+
+<p>
+<ul>
+<li>ひとつ</li>
+<li>ふたつ</li>
+<li>みっつ</li>
+</ul>
+</p>
+
+<p>
+<ol>
+<li>ひとつ</li>
+<li>ふたつ</li>
+<li>みっつ</li>
+</ol>
+</p>
+
+<p>
+<img src="https://placehold.jp/150x150.png" alt="hoge" />
+</p>
+
+<table border="1">
+<tr>
+<th>日本語</th>
+<th>英語</th>
+</tr>
+<tr>
+<td>東京</td>
+<td>Tokyo</td>
+</tr>
+<tr>
+<td>大阪</td>
+<td>Osaka</td>
+</tr>
+</table>
