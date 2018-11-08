@@ -9,15 +9,12 @@
 <p>↑ 水平線は出せませんでした ↑</p>
 
 <p>
-太字は<b>可能</b>です<br/>
-strongによる強調は<strong>可能</strong>です<br/>
-下線は<u>可能</u>です<br/>
-打ち消し線は<del>可能</del>です
-</p>
-
-<p>
-イタリックは<i>不可能</i>です<br/>
-emによる強調は<em>不可能</em>です
+太字 <b>bold</b><br/>
+strongによる強調 <strong>strong</strong><br/>
+下線 <u>under line</u><br/>
+打ち消し線 <del>delete</del><br/>
+イタリック <i>Itaric</i><br/>
+emによる強勢 <em>em</em>
 </p>
 
 <p>
